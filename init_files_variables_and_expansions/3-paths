@@ -1,0 +1,2 @@
+#!/bin/ash
+$(find "$PATH" -type d | wc -l)
